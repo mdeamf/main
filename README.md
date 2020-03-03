@@ -183,7 +183,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 
   A laid-back, in-depth analysis of video game design.
 
-* * Video Game Analysis [Subreddit](https://www.reddit.com/r/VideoGameAnalysis/) [YouTube Channels](https://www.reddit.com/r/VideoGameAnalysis/comments/9cr4dw/does_anyone_have_a_list_of_video_game_analysis/)
+* Video Game Analysis [Subreddit](https://www.reddit.com/r/VideoGameAnalysis/) [YouTube Channels](https://www.reddit.com/r/VideoGameAnalysis/comments/9cr4dw/does_anyone_have_a_list_of_video_game_analysis/)
 
   A gathering of interesting YouTube channels with game design analysis.
 
@@ -199,10 +199,6 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [My Website](https://mdeamf.github.io/)
 
   Just a simple website developed with vanilla HTML, CSS and JS.
-
-* [My Blog](https://mdeamf.wordpress.com/)
-
-  My personal blog, where I intend to post some essays, projects, and exercise my English writing skills.
 
 * [LinkedIn](https://linkedin.com/in/mdeamf)
 
