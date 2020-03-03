@@ -14,12 +14,12 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 
 ## **The Table of Contents**
 
-### [Personal Stuff](#section-1-|-personal-stuff)
+### [Personal Stuff](#section-1--personal-stuff)
 1.  [My Favorites](#my-favorites)
 2.  [My Recommendations](#my-recommendations)
 2.  [My Pages](#my-pages)
 
-### [Programming](#section-2-|-programming)
+### [Programming](#section-2--programming)
 1.  [JavaScript](#javascript)
 2.  [TypeScript](#typescript)
 3.  [Java](#java)
@@ -28,7 +28,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 6.  [Lua](#lua)
 7.  [PHP](#php)
 
-### [Front-End Development](#section-3-|-front-end-development)
+### [Front-End Development](#section-3--front-end-development)
 1.  [HTML](#html)
 2.  [CSS](#css)
 3.  [BootStrap](#bootstrap)
@@ -37,7 +37,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 6.  [VueJS](#vuejs)
 7.  [ReactJS](#reactjs)
 
-### [Back-End Development](#section-4-|-back-end-development)
+### [Back-End Development](#section-4--back-end-development)
 1.  [HTTP](#http)
 2.  [REST API](#rest-api)
 3.  [SOAP API](#soap-api)
@@ -45,7 +45,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 5.  [Spring](#spring)
 6.  [Database](#database)
 
-### [Mobile Development](#section-5-|-mobile-development)
+### [Mobile Development](#section-5--mobile-development)
 1.  [Ionic](#ionic)
 2.  [Cordova](#cordova)
 3.  [Kotlin](#kotlin)
@@ -55,12 +55,12 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 7.  [NativeScript](#nativescript)
 8.  [Swift](#swift)
 
-### [Game Development](#section-6-|-game-development)
+### [Game Development](#section-6--game-development)
 1.  [Game Design](#game-design)
 2.  [Game Engines](#game-engines)
 3.  [Game Resources](#game-resources)
 
-### [Utilities](#section-7-|-utilities)
+### [Utilities](#section-7--utilities)
 1.  [Code Editors](#code-editors)
 2.  [Git](#git)
 3.  [Productivity](#productivity)
@@ -68,7 +68,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 5.  [Courses](#courses)
 6.  [Challenges](#challenges)
 
-### [Other Libraries & Frameworks](#section-8-|-other-libraries-&-frameworks)
+### [Other Libraries & Frameworks](#section-8--other-libraries-&-frameworks)
 1.  [Webpack](#section-8-|-other-libraries-&-frameworks)
 2.  [Redux](#section-8-|-other-libraries-&-frameworks)
 3.  [GraphQL](#section-8-|-other-libraries-&-frameworks)
@@ -78,7 +78,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 7.  [Electron](#section-8-|-other-libraries-&-frameworks)
 8.  [Laravel](#section-8-|-other-libraries-&-frameworks)
 
-### [Methodologies & Operations](#section-9-|-methodologies-&-operations)
+### [Methodologies & Operations](#section-9--methodologies-&-operations)
 1. [Tests](#tests)
 2. [Test-Driven Development](#test-driven-development)
 3. [DevOps](#devops)
@@ -87,7 +87,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 6. [Waterfall](#waterfall)
 7. [Kanban](#kanban)
 
-### [Other Resources](#section-10-|-other-resources)
+### [Other Resources](#section-10--other-resources)
 1. [Colors](#colors)
 2. [Design](#design)
 3. [Inspiration](#inspiration)
@@ -376,6 +376,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 
 ## Section 5 | Mobile Development
 * [Video] [Academind | React Native vs Ionic vs NativeScript vs Android/ iOS Native Apps](https://www.youtube.com/watch?v=rb8smP_xTTY)
+* [Guide] [Gitconnected | Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
 
 ### Ionic
 * [Docs] [Ionic | V1 Docs](https://ionicframework.com/docs/v1/)
