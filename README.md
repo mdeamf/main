@@ -16,7 +16,6 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 
 ### [Personal Stuff](#section-1--personal-stuff)
 1.  [My Favorites](#my-favorites)
-2.  [My Recommendations](#my-recommendations)
 2.  [My Pages](#my-pages)
 
 ### [Programming](#section-2--programming)
@@ -68,17 +67,9 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 5.  [Courses](#courses)
 6.  [Challenges](#challenges)
 
-### [Other Libraries & Frameworks](#section-8--other-libraries-&-frameworks)
-1.  [Webpack](#section-8-|-other-libraries-&-frameworks)
-2.  [Redux](#section-8-|-other-libraries-&-frameworks)
-3.  [GraphQL](#section-8-|-other-libraries-&-frameworks)
-4.  [Django](#section-8-|-other-libraries-&-frameworks)
-5.  [Ruby on Rails](#section-8-|-other-libraries-&-frameworks)
-6.  [Capacitor](#section-8-|-other-libraries-&-frameworks)
-7.  [Electron](#section-8-|-other-libraries-&-frameworks)
-8.  [Laravel](#section-8-|-other-libraries-&-frameworks)
+### [Other Libraries & Frameworks](#section-8--other-libraries-and-frameworks)
 
-### [Methodologies & Operations](#section-9--methodologies-&-operations)
+### [Methodologies & Operations](#section-9--methodologies-and-operations)
 1. [Tests](#tests)
 2. [Test-Driven Development](#test-driven-development)
 3. [DevOps](#devops)
@@ -91,7 +82,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 1. [Colors](#colors)
 2. [Design](#design)
 3. [Inspiration](#inspiration)
-4. [UX/UI](#ux/ui)
+4. [UX/UI](#ux-and-ui)
 
 ## Section 1 | Personal Stuff
 ### My Favorites
@@ -273,6 +264,8 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [Video] [Edureka | Full 1h PHP Course](https://www.youtube.com/watch?v=hx38tnlYGlA)
 
 ## Section 3 | Front-End Development
+* [Guide] [Gitconnected | Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
+
 ### HTML
 * [Docs] [MDN | HTML Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [Docs] [DevDocs | HTML Docs](https://devdocs.io/html/)
@@ -376,7 +369,6 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 
 ## Section 5 | Mobile Development
 * [Video] [Academind | React Native vs Ionic vs NativeScript vs Android/ iOS Native Apps](https://www.youtube.com/watch?v=rb8smP_xTTY)
-* [Guide] [Gitconnected | Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
 
 ### Ionic
 * [Docs] [Ionic | V1 Docs](https://ionicframework.com/docs/v1/)
@@ -531,7 +523,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [Codingame](https://www.codingame.com/start)
 * [CheckIO](https://js.checkio.org/)
 
-## Section 8 | Other Libraries & Frameworks
+## Section 8 | Other Libraries and Frameworks
 * [NPM, Yarn, Bower, Grunt, Gulp...](https://www.reddit.com/r/webdev/comments/83e8ah/npm_gulp_grunt_yarn_bower_what_when_how_the/dvhdm2l/)
 * [JavaScript Transpilers](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)
 * [JavaScript Bundlers](https://medium.com/@gimenete/how-javascript-bundlers-work-1fc0d0caf2da)
@@ -551,7 +543,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [ESLint](https://eslint.org/)
 * [Cloud Architecture - "as a Service"](https://brainhub.eu/blog/cloud-architecture-saas-faas-xaas/)
 
-## Section 9 | Methodologies & Operations
+## Section 9 | Methodologies and Operations
 ### Tests
 * [JavaScript Testing Libraries](https://www.browserstack.com/guide/top-javascript-testing-frameworks)
 * [Types of Software Testing](https://www.softwaretestinghelp.com/types-of-software-testing/)
@@ -619,7 +611,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [SiteInspire](https://www.siteinspire.com/)
 * [CSS Design Awards](https://www.cssdesignawards.com/)
 
-### UX/UI
+### UX and UI
 * [UX Design Course](https://www.youtube.com/playlist?list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKHdB1)
 * [UI Design Course](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
 * [UX Design Tutorial](https://www.youtube.com/watch?v=I0-vBdh4sZ8)
