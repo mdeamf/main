@@ -17,6 +17,7 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 ### [Personal Stuff](#section-1--personal-stuff)
 1.  [My Favorites](#my-favorites)
 2.  [My Pages](#my-pages)
+3.  [My Repositories](#my-repositories)
 
 ### [Programming](#section-2--programming)
 1.  [JavaScript](#javascript)
@@ -194,6 +195,51 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
 * [LinkedIn](https://linkedin.com/in/mdeamf)
 
   My LinkedIn page!
+  
+### My Repositories
+* [angular-form-validation](https://github.com/mdeamf/angular-form-validation)
+
+  Angular Study - Validating forms according to the official documentation.
+
+* [angular-forms](https://github.com/mdeamf/angular-forms)
+
+  Angular Study - Creating template forms according to the official documentation.
+
+* [angular-playground-login](https://github.com/mdeamf/angular-playground-login)
+
+  Angular Study - Creating a simple login and sign-up front-end. Experimenting with components, observables and forms.
+
+* [angular-reactive-forms](https://github.com/mdeamf/angular-reactive-forms)
+
+  Angular Study - Creating reactive forms according to the official documentation.
+
+* [angular-tour-of-heroes](https://github.com/mdeamf/angular-tour-of-heroes)
+
+  Angular Study - Following the official Tour of Heroes from the official documentation.
+
+* [angularjs-curso](https://github.com/mdeamf/angularjs-curso)
+
+  AngularJS Study - Rodrigo Branas' course for AngularJS development.
+
+* [js-hackerrank](https://github.com/mdeamf/js-hackerrank)
+
+  JavaScript Study - Doing some challenges from HackerRank.
+
+* [js-mcd-lcm](https://github.com/mdeamf/js-mcd-lcm)
+
+  JavaScript Study - MCD and LCM algorithms.
+
+* [js-playground](https://github.com/mdeamf/js-playground)
+
+  JavaScript Study - Experimenting with the JavaScript language.
+
+* [mdeamf.github.io](https://github.com/mdeamf/mdeamf.github.io)
+
+  Personal website.
+
+* [node-api-mock](https://github.com/mdeamf/node-api-mock)
+
+  NodeJS Study - Simple mock API.
 
 ## Section 2 | Programming
 ### JavaScript
