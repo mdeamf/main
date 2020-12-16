@@ -197,25 +197,29 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   My LinkedIn page!
   
 ### My Repositories
+* [angular-credit-card](https://github.com/mdeamf/angular-credit-card)
+
+  [LIVE DEMO HERE!](https://mdeamf-angular-credit-card.netlify.app) Angular Study - Creating some interesting and colorful layouts with PrimeNG and Swiper.
+
 * [angular-form-validation](https://github.com/mdeamf/angular-form-validation)
 
-  Angular Study - Validating forms according to the official documentation.
+  [LIVE DEMO HERE!](https://mdeamf-angular-form-validation.netlify.app) Angular Study - Validating forms according to the official documentation.
 
 * [angular-forms](https://github.com/mdeamf/angular-forms)
 
-  Angular Study - Creating template forms according to the official documentation.
+  [LIVE DEMO HERE!](https://mdeamf-angular-forms.netlify.app) Angular Study - Creating template forms according to the official documentation.
 
 * [angular-playground-login](https://github.com/mdeamf/angular-playground-login)
 
-  Angular Study - Creating a simple login and sign-up front-end. Experimenting with components, observables and forms.
+  [LIVE DEMO HERE!](https://mdeamf-angular-playground-login.netlify.app) Angular Study - Creating a simple login and sign-up front-end. Experimenting with components, observables and forms.
 
 * [angular-reactive-forms](https://github.com/mdeamf/angular-reactive-forms)
 
-  Angular Study - Creating reactive forms according to the official documentation.
+  [LIVE DEMO HERE!](https://mdeamf-angular-reactive-forms.netlify.app) Angular Study - Creating reactive forms according to the official documentation.
 
 * [angular-tour-of-heroes](https://github.com/mdeamf/angular-tour-of-heroes)
 
-  Angular Study - Following the official Tour of Heroes from the official documentation.
+  [LIVE DEMO HERE!](https://mdeamf-angular-tour-of-heroes.netlify.app) Angular Study - Following the official Tour of Heroes from the official documentation.
 
 * [angularjs-curso](https://github.com/mdeamf/angularjs-curso)
 
