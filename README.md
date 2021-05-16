@@ -197,6 +197,10 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   My LinkedIn page!
   
 ### My Repositories
+* **ReactJS Studies**: [Course](https://github.com/mdeamf/reactjs-course) | [Refs](https://github.com/mdeamf/reactjs-refs) | [Code Splitting](https://github.com/mdeamf/reactjs-code-splitting)
+
+* **React Native Studies**: [Course - FocusTime](https://github.com/mdeamf/react-native-course-focustime) | [Course - MealsToGo](https://github.com/mdeamf/react-native-course-mealstogo) | [Redux](https://github.com/mdeamf/react-native-redux) | [Hooks](https://github.com/mdeamf/react-native-hooks) | [Render Props](https://github.com/mdeamf/react-native-render-props)
+
 * [angular-credit-card](https://github.com/mdeamf/angular-credit-card)
 
   [LIVE DEMO HERE!](https://mdeamf-angular-credit-card.netlify.app) Angular Study - Creating some interesting and colorful layouts with PrimeNG and Swiper.
