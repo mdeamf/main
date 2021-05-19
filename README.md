@@ -197,9 +197,21 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   My LinkedIn page!
   
 ### My Repositories
-* **ReactJS Studies**: [Course](https://github.com/mdeamf/reactjs-course) | [Refs](https://github.com/mdeamf/reactjs-refs) | [Code Splitting](https://github.com/mdeamf/reactjs-code-splitting)
+* **ReactJS Studies**
+  * [Course](https://github.com/mdeamf/reactjs-course)
+  * [Refs](https://github.com/mdeamf/reactjs-refs)
+  * [Code Splitting](https://github.com/mdeamf/reactjs-code-splitting)
+  * [High Order Components](https://github.com/mdeamf/reactjs-high-order-components)
+  * [Portals](https://github.com/mdeamf/reactjs-portals)
+  * [Forms](https://github.com/mdeamf/reactjs-forms)
 
-* **React Native Studies**: [Course - FocusTime](https://github.com/mdeamf/react-native-course-focustime) | [Course - MealsToGo](https://github.com/mdeamf/react-native-course-mealstogo) | [Redux](https://github.com/mdeamf/react-native-redux) | [Hooks](https://github.com/mdeamf/react-native-hooks) | [Render Props](https://github.com/mdeamf/react-native-render-props)
+* **React Native Studies**
+  * [Course - FocusTime](https://github.com/mdeamf/react-native-course-focustime)
+  * [Course - MealsToGo](https://github.com/mdeamf/react-native-course-mealstogo)
+  * [Redux](https://github.com/mdeamf/react-native-redux)
+  * [Hooks](https://github.com/mdeamf/react-native-hooks)
+  * [Render Props](https://github.com/mdeamf/react-native-render-props)
+  * [Error Boundaries](https://github.com/mdeamf/react-native-error-boundaries)
 
 * [angular-credit-card](https://github.com/mdeamf/angular-credit-card)
 
