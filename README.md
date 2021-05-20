@@ -197,6 +197,15 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   My LinkedIn page!
   
 ### My Repositories
+* **Angular Studies**
+  * [Saturn Cards](https://github.com/mdeamf/angular-credit-card)
+  * [Forms Validation](https://github.com/mdeamf/angular-form-validation)
+  * [Forms](https://github.com/mdeamf/angular-forms)
+  * [Login Playground](https://github.com/mdeamf/angular-playground-login)
+  * [Reactive Forms](https://github.com/mdeamf/angular-reactive-forms)
+  * [Tour of Heroes](https://github.com/mdeamf/angular-tour-of-heroes)
+  * [AngularJS Course](https://github.com/mdeamf/angularjs-curso)
+
 * **ReactJS Studies**
   * [Course](https://github.com/mdeamf/reactjs-course)
   * [Refs](https://github.com/mdeamf/reactjs-refs)
@@ -204,6 +213,8 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   * [High Order Components](https://github.com/mdeamf/reactjs-high-order-components)
   * [Portals](https://github.com/mdeamf/reactjs-portals)
   * [Forms](https://github.com/mdeamf/reactjs-forms)
+  * [Axios](https://github.com/mdeamf/reactjs-axios)
+  * [Routers](https://github.com/mdeamf/reactjs-routers)
 
 * **React Native Studies**
   * [Course - FocusTime](https://github.com/mdeamf/react-native-course-focustime)
@@ -213,53 +224,20 @@ The main platforms I'm concentrating on right now are: **NodeJS**, **BootStrap**
   * [Render Props](https://github.com/mdeamf/react-native-render-props)
   * [Error Boundaries](https://github.com/mdeamf/react-native-error-boundaries)
 
-* [angular-credit-card](https://github.com/mdeamf/angular-credit-card)
+* **NodeJS and JavaScript Studies**
+  * [Automated Test](https://github.com/mdeamf/node-automated-tests)
+  * [HackerRank Challenges](https://github.com/mdeamf/js-hackerrank)
+  * [MCD and LCM](https://github.com/mdeamf/js-mcd-lcm)
+  * [Playground](https://github.com/mdeamf/js-playground)
+  * [Mock API](https://github.com/mdeamf/node-api-mock)
 
-  [LIVE DEMO HERE!](https://mdeamf-angular-credit-card.netlify.app) Angular Study - Creating some interesting and colorful layouts with PrimeNG and Swiper.
+* [Git Playground](https://github.com/mdeamf/git-playground)
 
-* [angular-form-validation](https://github.com/mdeamf/angular-form-validation)
-
-  [LIVE DEMO HERE!](https://mdeamf-angular-form-validation.netlify.app) Angular Study - Validating forms according to the official documentation.
-
-* [angular-forms](https://github.com/mdeamf/angular-forms)
-
-  [LIVE DEMO HERE!](https://mdeamf-angular-forms.netlify.app) Angular Study - Creating template forms according to the official documentation.
-
-* [angular-playground-login](https://github.com/mdeamf/angular-playground-login)
-
-  [LIVE DEMO HERE!](https://mdeamf-angular-playground-login.netlify.app) Angular Study - Creating a simple login and sign-up front-end. Experimenting with components, observables and forms.
-
-* [angular-reactive-forms](https://github.com/mdeamf/angular-reactive-forms)
-
-  [LIVE DEMO HERE!](https://mdeamf-angular-reactive-forms.netlify.app) Angular Study - Creating reactive forms according to the official documentation.
-
-* [angular-tour-of-heroes](https://github.com/mdeamf/angular-tour-of-heroes)
-
-  [LIVE DEMO HERE!](https://mdeamf-angular-tour-of-heroes.netlify.app) Angular Study - Following the official Tour of Heroes from the official documentation.
-
-* [angularjs-curso](https://github.com/mdeamf/angularjs-curso)
-
-  AngularJS Study - Rodrigo Branas' course for AngularJS development.
-
-* [js-hackerrank](https://github.com/mdeamf/js-hackerrank)
-
-  JavaScript Study - Doing some challenges from HackerRank.
-
-* [js-mcd-lcm](https://github.com/mdeamf/js-mcd-lcm)
-
-  JavaScript Study - MCD and LCM algorithms.
-
-* [js-playground](https://github.com/mdeamf/js-playground)
-
-  JavaScript Study - Experimenting with the JavaScript language.
+  Playing around with intermediate and advanced Git flows.
 
 * [mdeamf.github.io](https://github.com/mdeamf/mdeamf.github.io)
 
   Personal website.
-
-* [node-api-mock](https://github.com/mdeamf/node-api-mock)
-
-  NodeJS Study - Simple mock API.
 
 ## Section 2 | Programming
 ### JavaScript
